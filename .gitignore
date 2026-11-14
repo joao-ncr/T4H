@@ -4,3 +4,8 @@ CLAUDE.md
 
 # Clone do kit oficial da Tech for Humans (repositorio proprio, nao deve ser versionado aqui)
 t4h-desafios/
+
+# Chaves de API e ambientes virtuais (nunca versionar)
+.env
+.venv/
+__pycache__/
